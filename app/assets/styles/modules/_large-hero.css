@@ -19,7 +19,7 @@
         @mixin atSmall {
             font-size: 2rem;
         }
-       
+
         @mixin atMedium {
             font-size: 3.2rem;
         }
@@ -40,7 +40,7 @@
             font-size: 2.9rem;
         }
 
-        
+
     }
 
     &__description {
@@ -52,7 +52,5 @@
         margin-left: auto;
         margin-right: auto;
     }
-
-
 
 }
